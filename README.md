@@ -92,9 +92,7 @@ Simon-Says-Game/
 
 ## 📸 Game Preview
 
-```
 ![Game Preview](preview.png)
-```
 
 ---
 
