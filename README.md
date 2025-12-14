@@ -35,7 +35,9 @@ This project focuses on **DOM manipulation**, **event handling**, and **basic ga
 ---
 ## 🔗 Let's Try To Play
 
-    ![Click Me](preview.png)
+[Click Me](https://soyamkayasth.github.io/Simon-Says-Game/)
+
+---
 
 ## 🎯 Features
 
